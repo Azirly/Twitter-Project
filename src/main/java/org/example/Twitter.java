@@ -1,7 +1,7 @@
-package org.example;
+package org.example; 
 
 import java.io.*;
-import java.util.*;
+import java.util.*; 
 
 import java.util.Scanner;
 
@@ -14,6 +14,7 @@ class Tweet {
     String content;
     int userId;
     int tweetId;
+    int test;
 
     ArrayList<String> hashtags;
 
